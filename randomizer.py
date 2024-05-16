@@ -34,3 +34,4 @@ def make_teams() -> str:
 
 
 print(make_teams())
+input('Press Enter to exit...')
